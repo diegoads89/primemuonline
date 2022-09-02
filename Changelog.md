@@ -36,6 +36,23 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 ### Inicio do Beta
 
+## [1.0.0.2] - 2022-15-08
+- corrigido mobs em todas as Kalimas
+- removida Dark Phoenix Shield bugada
+- corrigido MuOffHelper não pegar zen
+- removido char começar com seals
+- 
+## [1.0.0.2] - 2022-15-08
+- corrigido drop de joias, medalhas e boxes
+- alterada exp geral e dinamica, nova formula
+- alterada varias eventitembags do MuServer (drops de boxes, etc)
+
+## [1.0.0.1] - 2022-15-08
+- alterado CashShop e removido itens que não vamos usar
+- alterado a EXP dos Seals e PETs para deixar o jogo menos apelativo
+- alterado spots para bater com spots do GMO, com mais mobs que o original
+- alterado MIX para fazer Wings Lvl 4
+
 ## [6.3.0] - 2022-15-08
 - fix nome das PShop ( em uma linha )
 - fix dup move em duel.
