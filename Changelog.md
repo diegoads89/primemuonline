@@ -9,6 +9,9 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 # Changelog
 
+## [1.0.6.0] - 2022-02-09
+- Inicio do Beta Test as 18:00h
+
 ## [1.0.5.0] - 2022-31-08
 - Primeiro instalador do cliente compilado [v.1.05](https://mega.nz/file/FI5zEQwJ#6GgPxFXKRlPLwlbPKRBqVkC-LWqVMdghLjkAoJkA8kc).
 
