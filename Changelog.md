@@ -1,11 +1,10 @@
-
 Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 ## [Não publicadas / falta atualizar o GameServer]
 
 ### Adicionado 
 
-- 
+- sem mudanças pendentes
 ------------------------------------------------------------------------
 
 # Changelog
