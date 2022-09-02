@@ -4,7 +4,8 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 ### Adicionado / Modificado
 
-- sem mudanças pendentes
+- sem mudanças pendentes ou bugs reportados
+
 ------------------------------------------------------------------------
 
 # Changelog
