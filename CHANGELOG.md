@@ -10,7 +10,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Custom Quests não funcionam ( verirficar )
 - Drop de Potion dos mobs ( add )
 - Spots de Icarus aumentados
-- Zen do MuHelper diminuid
+- Zen do MuHelper diminuido
 
 ------------------------------------------------------------------------
 
