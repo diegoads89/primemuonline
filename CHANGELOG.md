@@ -6,9 +6,11 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - sem mudanças pendentes ou bugs reportados
 
 ### Bugs Reportados
-- Convite do CC não funciona
-- Custom Quests não funcionam
+- Convite do CC não funciona ( verirficar )
+- Custom Quests não funcionam ( verirficar )
 - Drop de Potion dos mobs ( add )
+- Spots de Icarus aumentados
+- Zen do MuHelper diminuid
 
 ------------------------------------------------------------------------
 
