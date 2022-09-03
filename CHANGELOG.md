@@ -3,8 +3,12 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 ## [Não publicadas / falta atualizar o GameServer]
 
 ### Adicionado / Modificado
-
 - sem mudanças pendentes ou bugs reportados
+
+### Bugs Reportados
+- Convite do CC não funciona
+- Custom Quests não funcionam
+- Drop de Potion dos mobs ( add )
 
 ------------------------------------------------------------------------
 
