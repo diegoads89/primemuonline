@@ -13,6 +13,14 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 ------------------------------------------------------------------------
 
 # Changelog
+## [1.0.7.0] - 2022-02-09
+- Alterado consumo de zen no BOT
+- Corrigido Drop de Zen de K+1 e K+2
+- Corrigido Drop de Itens exc +4 do K+2
+- Adicionado alguns spots em Devias
+- Adicionado Drop de Potion Mobs lvl 40~100 ( add no Bot "Potion" )
+- Alterado horário do Evento de Drop em Lorencia: 9:30, 19:30 e 23:30
+- Removido drop de Bolt do K+1
 
 ## [1.0.6.0] - 2022-02-09
 - Inicio do Beta Test as 18:00h
