@@ -11,6 +11,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Drop de Potion dos mobs ( add )
 - Spots de Icarus aumentados
 - Zen do MuHelper diminuido
+- Ver Drop com luck e sem luck dos boss
 
 ------------------------------------------------------------------------
 
