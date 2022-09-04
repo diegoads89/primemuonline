@@ -15,7 +15,19 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 ------------------------------------------------------------------------
 
 # Changelog
-## [1.0.7.0] - 2022-02-09
+
+## [1.0.8.0] - 2022-04-09
+- Corrigido drop ancient do Selupan, Medusa e Kundun
+- Removido joias dos BOSS acima dropando com level 1
+- alterado joias dos BOSS acima para pack de joias
+- corrigido drop de Items Socket de 1 a 3 sockets no item
+- corrigido drop exc dos boss, com até 2 options exc
+- corrigido drop exc dos boss, com opcional até +12
+- corrigido drop exc dos boss, com ou sem Luck
+- Adicionado novo Spot em LT6
+- Alterado quantidade de mobs por spot em Icarus
+
+## [1.0.7.0] - 2022-03-09
 - Alterado consumo de zen no BOT
 - Corrigido Drop de Zen de K+1 e K+2
 - Corrigido Drop de Itens exc +4 do K+2
