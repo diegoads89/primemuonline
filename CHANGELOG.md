@@ -6,19 +6,21 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - sem mudanças pendentes ou bugs reportados
 
 ### Bugs Reportados
-- Remover zen da Box of Luck ID 14 INDEX 15
+
 - Conferir se todos os boss dropam items com luck e sem
-- Red Dragon dropando Jewel +1
-- Red Dragon Dropando Zen (ID 14 15)
 - Eternal Wing Stick com % bugada
 - Trocar shop 6 e shop 5
 - Testar box of loot (low , top)
-- resetar muhelper, deixar config original (GS - Common.dat)
-- resetar tempo do muhelper, deixar original (GS - Custom.dat)
 
 ------------------------------------------------------------------------
 
 # Changelog
+## [1.0.10.0] - 2022-06-09
+- Remover zen da Box of Luck ID 14 INDEX 15
+- Red Dragon dropando Jewel +1
+- Red Dragon Dropando Zen (ID 14 15)
+- resetar muhelper, deixar config original (GS - Common.dat)
+- resetar tempo do muhelper, deixar original (GS - Custom.dat)
 
 ## [1.0.9.0] - 2022-05-09
 - FIX Convite do CC não funciona
