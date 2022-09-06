@@ -7,7 +7,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 ### Bugs Reportados
 - Remover zen da Box of Luck ID 14 INDEX 15
-- Ver Drop com luck e sem luck dos boss
+- Conferir se todos os boss dropam items com luck e sem
 
 ------------------------------------------------------------------------
 
