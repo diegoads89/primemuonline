@@ -11,6 +11,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Red Dragon dropando Jewel +1
 - Red Dragon Dropando Zen (ID 14 15)
 - Eternal Wing Stick com % bugada
+- Trocar shop 6 e shop 5
 
 ------------------------------------------------------------------------
 
