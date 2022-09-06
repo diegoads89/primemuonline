@@ -26,6 +26,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Elf Energy não bufa as vezes
 - Corrigido Drop dos BOSS
 - Alterado drop dos BCs
+- Fix EXP OffLevel (MuHelper)
 
 ## [1.0.8.0] - 2022-04-09
 - Corrigido drop ancient do Selupan, Medusa e Kundun
@@ -299,10 +300,10 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Soporte Max. 100 custom acc
 - Move + Nixie Spirit evento boss
 - ItemValue.txt lado cliente para wings index maior a 260
-- Fix MasterSkill Interface ex700 poderes en branco
+- Fix MasterSkill Interface ex700 poderes em branco
 - Fix Skill DL, RF, MG interface ex700
 - Fix Barra Upgrade Ex700 Barra negra
-- Fix Credits en select char.
+- Fix Credits em select char.
 - Fix Score Duel com interface ex700
   
 ## [0.7.0] - 24-2022-07
