@@ -11,6 +11,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Eternal Wing Stick com % bugada
 - Trocar shop 6 e shop 5
 - Testar box of loot (low , top)
+- Conferir descrição do Seal of sustenance
 
 ------------------------------------------------------------------------
 
