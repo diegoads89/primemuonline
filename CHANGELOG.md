@@ -6,16 +6,24 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - sem mudanças pendentes ou bugs reportados
 
 ### Bugs Reportados
-- Convite do CC não funciona ( verirficar )
-- Custom Quests não funcionam ( verirficar )
-- Drop de Potion dos mobs ( add )
-- Spots de Icarus aumentados
-- Zen do MuHelper diminuido
+- Remover zen da Box of Luck ID 14 INDEX 15
 - Ver Drop com luck e sem luck dos boss
 
 ------------------------------------------------------------------------
 
 # Changelog
+
+## [1.0.9.0] - 2022-05-09
+- FIX Convite do CC não funciona
+- FIX entrada do BC
+- FIX Custom Quests não funcionam
+- Drop de Potion dos mobs ( add )
+- Spots de Icarus aumentados
+- Zen do MuHelper diminuido
+- Elf Energy healando aletatório
+- Elf Energy não bufa as vezes
+- Corrigido Drop dos BOSS
+- Alterado drop dos BCs
 
 ## [1.0.8.0] - 2022-04-09
 - Corrigido drop ancient do Selupan, Medusa e Kundun
