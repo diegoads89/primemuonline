@@ -13,6 +13,8 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Eternal Wing Stick com % bugada
 - Trocar shop 6 e shop 5
 - Testar box of loot (low , top)
+- resetar muhelper, deixar config original (GS - Common.dat)
+- resetar tempo do muhelper, deixar original (GS - Custom.dat)
 
 ------------------------------------------------------------------------
 
