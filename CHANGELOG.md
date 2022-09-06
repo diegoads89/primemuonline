@@ -10,6 +10,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Conferir se todos os boss dropam items com luck e sem
 - Red Dragon dropando Jewel +1
 - Red Dragon Dropando Zen (ID 14 15)
+- Eternal Wing Stick com % bugada
 
 ------------------------------------------------------------------------
 
