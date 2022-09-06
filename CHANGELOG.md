@@ -55,6 +55,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Adicionado Drop de Potion Mobs lvl 40~100 ( add no Bot "Potion" )
 - Alterado horário do Evento de Drop em Lorencia: 9:30, 19:30 e 23:30
 - Removido drop de Bolt do K+1
+- adicionado novo spot em Icarus
 
 ## [1.0.6.0] - 2022-02-09
 - Inicio do Beta Test as 18:00h
@@ -64,10 +65,12 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 ## [1.0.4.0] - 2022-30-08
 - Inicio das configurações do Fórum
+- adicionado novos spots em lt6
 
 ## [1.0.3.0] - 2022-29-08
 - dominio ativado: (https://primemuonline.com)
 - aberto chamado para correção da pasta public_html
+- adicionado 2 novos spots em A1
 
 ## [1.0.2.0] - 2022-29-08
 - configurações de firewall aplicadas no Cloud
