@@ -9,9 +9,9 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 - conferir se todos os boss dropam items com luck e sem
 - eternal Wing Stick com % bugada
-- trocar shop 6 e shop 5
+- trocar shop 6 e shop 5 (alterado com convites de eventos prontos)
 - testar box of loot (low , top)
-- Conferir descrição do Seal of sustenance
+- Conferir descrição do Seal of sustenance (corrigido falta publicar)
 - alterar drop de exc por mapa
 - drop especial de exc em BC, CC, DS
 - exp +50% em BC, CC e DS
