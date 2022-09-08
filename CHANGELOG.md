@@ -7,12 +7,14 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 ### Bugs Reportados
 
-- Conferir se todos os boss dropam items com luck e sem
-- Eternal Wing Stick com % bugada
-- Trocar shop 6 e shop 5
-- Testar box of loot (low , top)
+- conferir se todos os boss dropam items com luck e sem
+- eternal Wing Stick com % bugada
+- trocar shop 6 e shop 5
+- testar box of loot (low , top)
 - Conferir descrição do Seal of sustenance
-
+- alterar drop de exc por mapa
+- drop especial de exc em BC, CC, DS
+- exp +50% em BC, CC e DS
 ------------------------------------------------------------------------
 
 # Changelog
