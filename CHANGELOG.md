@@ -15,6 +15,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - alterar drop de exc por mapa
 - drop especial de exc em BC, CC, DS
 - exp +50% em BC, CC e DS
+- box of heaven dropando zen
 ------------------------------------------------------------------------
 
 # Changelog
