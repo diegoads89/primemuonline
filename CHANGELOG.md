@@ -21,6 +21,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - drop especial de exc em BC, CC, DS
 - exp +50% em BC, CC e DS
 - add reset skill on website
+- corrigido dano do nightmare
 
 ## [1.0.11.0] - 2022-10-09
 - trocado shop 6 e shop 5 (alterado com convites de eventos prontos)
