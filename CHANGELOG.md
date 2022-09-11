@@ -22,6 +22,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - exp +50% em BC, CC e DS
 - add reset skill on website
 - corrigido dano do nightmare
+- corrigido maximo de option jewel of life +16
 
 ## [1.0.11.0] - 2022-10-09
 - trocado shop 6 e shop 5 (alterado com convites de eventos prontos)
