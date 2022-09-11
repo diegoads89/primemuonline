@@ -10,6 +10,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - conferir se todos os boss dropam items com luck e sem
 - eternal Wing Stick com % bugada
 - testar box of loot (low , top)
+- configurar custom quests
 ------------------------------------------------------------------------
 
 # Changelog
