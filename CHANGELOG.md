@@ -9,16 +9,24 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 - conferir se todos os boss dropam items com luck e sem
 - eternal Wing Stick com % bugada
-- trocar shop 6 e shop 5 (alterado com convites de eventos prontos)
 - testar box of loot (low , top)
-- Conferir descrição do Seal of sustenance (corrigido falta publicar)
-- alterar drop de exc por mapa
-- drop especial de exc em BC, CC, DS
-- exp +50% em BC, CC e DS
-- box of heaven dropando zen
 ------------------------------------------------------------------------
 
 # Changelog
+
+## [1.0.12.0] - 2022-11-09
+- Fix drop de itens S17 nos mapas novos ( testar )
+- Alterado preço dos ruuds ( esta com bug visual )
+- alterado drop de exc por mapa
+- drop especial de exc em BC, CC, DS
+- exp +50% em BC, CC e DS
+- add reset skill on website
+
+## [1.0.11.0] - 2022-10-09
+- trocado shop 6 e shop 5 (alterado com convites de eventos prontos)
+- FIX descrição do Seal of sustenance ( falta publicar no launcher )
+- FIX box of heaven dropando zen
+
 ## [1.0.10.0] - 2022-06-09
 - Remover zen da Box of Luck ID 14 INDEX 15
 - Red Dragon dropando Jewel +1
