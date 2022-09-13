@@ -17,6 +17,10 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 # Changelog
 
+## [1.0.13.0] - 2022-13-09
+- Patch v5 do cliente, visando alguns fixes visuais
+- tentativa de correção do helper
+
 ## [1.0.12.0] - 2022-11-09
 - Fix drop de itens S17 nos mapas novos ( testar )
 - Alterado preço dos ruuds ( esta com bug visual )
