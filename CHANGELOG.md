@@ -7,23 +7,99 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 ### Bugs Reportados
 
-- conferir se todos os boss dropam items com luck e sem
-- eternal Wing Stick com % bugada
-- configurar custom quests
-- arrumar gates por level
-- arrumar exp dos mapas high level
+- 
 ------------------------------------------------------------------------
 
 # Changelog
+
+## [1.1.6.1] - 2023-25-01
+- Corrigido pedir e-mail e PIN após primeiro login no client
+- Corrigido mostrar nome dos players sempre ( sem passar mouse )
+- Corrigido tela de informações na safezone ( removido )
+- Removido informaçõe "Reset e Master Reset" ao usar tecla alt no player
+- Adicionado DLL para corrigir problema com o DEP do Windows ( não precisa adicionar mais )
+- Corrigido Panda Pet mostrando 50% de EXP no client (bug visual)
+- Outros bugs reportados e corrigidos.
+
+## [1.1.6.0] - 2023-24-01
+- Corrigido maxrate da Soul Barrier
+- Corrigido maxrate da Great Fortitude
+- Corrigido maxrate da Lesser e Reflect
+
+## [1.1.5.0] - 2023-24-01
+- Abertura do Servidor as 19h
+- Client 1.6 com vários fixes publicado
+- Removido mini wings das quests customs
+- Removido mini wings e outros itens da CashShop
+- Adicionado camera 3D com zoom out maior
+
+# Changelog Pausado.
+
+## [1.1.4.3] - 2023-19-01
+- Changelog pausado temporariamente para focar no server.
+
+## [1.1.4.2] - 2023-19-01
+- Alterado move para lorencia, noria e elbeland level 1 e 0 zen
+
+## [1.1.3.1] - 2023-15-01
+- Varias correções no maininfo
+- PS Anticheat com varias verificações CRC
+- Troca de Loren Market por Arkania
+
+## [1.1.2.0] - 2023-09-01
+- Corrigido varios reports feitos por players
+- Realizado testes do PvP Championship
+- Realizado teste do Rei do MU
+
+## [1.1.1.0] - 2023-05-01
+- Corrigido varios reports feitos por players
+- Adicionado anticheat PS v1.
+
+## [1.1.0.0] - 2023-03-01
+- Inicio do Open Beta ao publico
+
+## [1.0.21.0] - 2023-02-01
+- Testes dos eventos GvG e TvT
+- Alterações na tabela dinamica e drop de zen
+
+## [1.0.20.0] - 2022-23-12
+- Testes de novos eventos ( Pandora, Battle Royale )
+- Varios bugs de drop corrigidos
+
+## [1.0.19.0] - 2022-20-12
+- Corrigido alguns ancients que dropavam sem opt anc.
+- Varios fixes realizados no cliente
+
+## [1.0.18.0] - 2022-05-12
+- Corrigido alguns ancients que dropavam sem opt anc.
+- Realizado mais testes de PvM e balance
+- Varios bugs corrigidos ingame
+
+## [1.0.17.0] - 2022-29-11
+- Removido Spots dos mapas novos, implantar no futuro
+- Corrigido drop de alguns items sem luck de varias boxes
+- Corrigido drop ancient da Medusa e Kundun
+- Varios bugs corrigidos ingame
+
+## [1.0.16.0] - 2022-12-11
+- Spots refeitos
+- Shops refeitas
+- Monster.txt corrigido respawn
+
+## [1.0.15.0] - 2022-12-10
+- Criado as novas invasões de mini BOSS
+- Site alterado para Webengine
+- Adicionado opção de resetar Skill Tree no site
+- Varios bugs corrigidos ingame
+
+## [1.0.14.0] - 2022-23-09
+- Refeito todas as boxes e drops de BOSS
 
 ## [1.0.13.0] - 2022-13-09
 - Patch v5 do cliente, visando alguns fixes visuais
 - tentativa de correção do helper
 
 ## [1.0.12.0] - 2022-11-09
-- Fix drop de itens S17 nos mapas novos ( testar )
-- Alterado preço dos ruuds ( esta com bug visual )
-- alterado drop de exc por mapa
 - drop especial de exc em BC, CC, DS
 - exp +50% em BC, CC e DS
 - add reset skill on website
@@ -39,16 +115,12 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Remover zen da Box of Luck ID 14 INDEX 15
 - Red Dragon dropando Jewel +1
 - Red Dragon Dropando Zen (ID 14 15)
-- resetar muhelper, deixar config original (GS - Common.dat)
-- resetar tempo do muhelper, deixar original (GS - Custom.dat)
 
 ## [1.0.9.0] - 2022-05-09
 - FIX Convite do CC não funciona
 - FIX entrada do BC
 - FIX Custom Quests não funcionam
 - Drop de Potion dos mobs ( add )
-- Spots de Icarus aumentados
-- Zen do MuHelper diminuido
 - Elf Energy healando aletatório
 - Elf Energy não bufa as vezes
 - Corrigido Drop dos BOSS
@@ -112,18 +184,15 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - corrigido mobs em todas as Kalimas
 - removida Dark Phoenix Shield bugada
 - corrigido MuOffHelper não pegar zen
-- removido char começar com seals
 - 
 ## [1.0.0.2] - 2022-15-08
-- corrigido drop de joias, medalhas e boxes
+- corrigido drop de joias e boxes
 - alterada exp geral e dinamica, nova formula
 - alterada varias eventitembags do MuServer (drops de boxes, etc)
 
 ## [1.0.0.1] - 2022-15-08
 - alterado CashShop e removido itens que não vamos usar
 - alterado a EXP dos Seals e PETs para deixar o jogo menos apelativo
-- alterado spots para bater com spots do GMO, com mais mobs que o original
-- alterado MIX para fazer Wings Lvl 4
 
 ## [6.3.0] - 2022-15-08
 - fix nome das PShop ( em uma linha )
@@ -145,7 +214,6 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - fix party 7~10 user  (atual 7)
 
 ## [6.0.0] - 2022-07-08
-- ADD support 7~10 partys (atual 7)
 - ADD no antilag mostrar sword
 - ADD no antilag mostrar wings
 - ADD no antilag mostrar slayer
@@ -153,10 +221,8 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - fix lucky item visual bug
 
 ## [5.0.0] - 2022-06-08
-- ADD smithy shop
 - ADD windows quest
 - ADD Skill Damage
-- ADD novas maneiras de ganhar RUUD
 
 ## [4.2.0] - 2022-05-08
 - fix inv. full jewelbank
@@ -166,13 +232,11 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - fix pvp miss
 
 ## [4.0.0] - 2022-05-08
-- ADD ruud windows move
 - ADD desativar sombras no painel de opções (O)
 - ADD desativar sombra dos monstros no painel de opções (O
 - ADD mini map radar
 - ADD novo modelo de ranking dentro do jogo, ordenado por level
 - ADD pequeno antihack no main.dll
-- Quantidade de Monstros possiveis no GS (10000)
 
 ## [3.3.0] - 2022-04-08
 - ADD procurar store
