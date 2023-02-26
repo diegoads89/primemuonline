@@ -12,7 +12,7 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 
 # Changelog
 
-## [1.1.6.1] - 2023-25-01
+## [1.1.6.1] - 2023-25-02
 - Corrigido pedir e-mail e PIN após primeiro login no client
 - Corrigido mostrar nome dos players sempre ( sem passar mouse )
 - Corrigido tela de informações na safezone ( removido )
@@ -21,12 +21,12 @@ Todas as mudanças importantes neste projeto serão documentadas neste arquivo.
 - Corrigido Panda Pet mostrando 50% de EXP no client (bug visual)
 - Outros bugs reportados e corrigidos.
 
-## [1.1.6.0] - 2023-24-01
+## [1.1.6.0] - 2023-24-02
 - Corrigido maxrate da Soul Barrier
 - Corrigido maxrate da Great Fortitude
 - Corrigido maxrate da Lesser e Reflect
 
-## [1.1.5.0] - 2023-24-01
+## [1.1.5.0] - 2023-24-02
 - Abertura do Servidor as 19h
 - Client 1.6 com vários fixes publicado
 - Removido mini wings das quests customs
